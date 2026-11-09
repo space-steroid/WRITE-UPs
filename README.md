@@ -1,2 +1,2 @@
 # WRITE-UPs
-Collection di tutti i write-up svolti
+Collection di tutti i write-up delle macchine risolte
